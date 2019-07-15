@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Tech"
+date:   2019-07-15
+author: Swati Nair
+categories: "Basics"
+---
+
+Serverless Computing:
+A method of providing server capabilities on usage basis, rather than assigning a fixed bandwidth or a fixed number of servers.
