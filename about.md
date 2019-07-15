@@ -1,17 +1,25 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/profile_pic.jpg" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+Hello! I am Swati Nair and currently in the midst of exploring the world of open source (and trying to be a part of it!), distributed systems, and Kubernetes. In my spare time, I like to watch Netflix, read, travel, or dance.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I currently work as a backend developer at IBM, which lets me dabble with Node.js, Golang, and Kubernetes. I completed my Master's program in Computer Science from University at Buffalo in the month of December 2018. Before joining the Master's program, I was working as a software test engineer, initially at Amdocs (2012-16) and later, with Capgemini (2016-17).
+
+I love to teach and mentor. I am grateful that I got multiple opportunities to explore this avenue by being part of a non-profit organization, [MentorTogether][mentortogether], where I mentored a ninth-grade girl on English and mathematics courses. Other experiences include teaching C, data structures, and algorithms to around 50 students after my senior year and being a guest lecturer at my undergrad college for a session on "Java programming".
+
+This website is an attempt to follow my passion of knowledge sharing and I will be covering basic technical topics that I learn daily. Let it be research papers, open source contributions, apps I develop, and the nitty-gritty computer science concepts that we learned during our school time, but don't remember it now (Yeah! It happens). Along with it, I will also share random thoughts that pop up in my mind palace and life experiences that are worth sharing!
+<br>
+<br>
+P.S. The views expressed on this website are mine alone.
+For this site, I have used a custom theme for Jekyll: [Centrarium][centrarium], made by [Ben Centra][bencentra]
+
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+[mentortogether]: https://mentortogether.org/
