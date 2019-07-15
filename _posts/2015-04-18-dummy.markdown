@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dummy Post"
+title:  "Tech"
 date:   2019-07-15
 author: Swati Nair
-categories: Do you know?
+categories: "Do you know?"
 ---
 
 Serverless Computing:
