@@ -3,8 +3,8 @@ layout: post
 title:  "Dummy Post"
 date:   2019-07-15
 author: Swati Nair
-categories: One-liners
+categories: Do you know?
 ---
 
 Serverless Computing:
-A method of providing server capabilities on an as-used basis, rather than assigning a fixed bandwidth or a fixed number of servers.
+A method of providing server capabilities on usage basis, rather than assigning a fixed bandwidth or a fixed number of servers.
